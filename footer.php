@@ -13,8 +13,7 @@
 
 <footer id="site-footer" role="contentinfo">
 	<div id="site-info">
-		<?php _e( 'Copyright', 'hellish' ); ?> &copy; <?php bloginfo( 'name' ); ?> <?php echo date( 'Y' ); ?>. 
-		<?php _e( 'WordPress theme by', 'hellish' ); ?> <a href="http://geek.ryanhellyer.net/" title="Ryan Hellyer">Ryan Hellyer</a>.
+		<?php _e( 'Copyright', 'hellish' ); ?> &copy; <?php bloginfo( 'name' ); ?> <?php echo date( 'Y' ); ?> 		
 	</div><!-- #site-info -->
 </footer><!-- #colophon .site-footer -->
 
