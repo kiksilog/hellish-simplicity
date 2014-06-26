@@ -18,6 +18,10 @@
 </footer><!-- #colophon .site-footer -->
 
 <?php wp_footer(); ?>
-
+<script type="text/javascript">
+var infolinks_pid = 284771;
+var infolinks_wsid = 5;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 </body>
 </html>
